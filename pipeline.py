@@ -16,7 +16,7 @@ from pprint import pprint
 
 ##################### Collecting files and setting up logging #################
 # defining the language being processed (influences file location and output!)
-language = "fr"
+language = "pt"
 ###############################################################################
 
 
